@@ -29,3 +29,5 @@ At start some comfiguration is the same as the configurations of a dependency:
 - groupId;
 - artifactId;
 - version.
+
+After, we can have configurations related specifically the plugin that is be configured. Example of configuration: `release` (please see the image).
