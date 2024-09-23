@@ -45,3 +45,9 @@ mvn javadoc:javadoc
 ```
 
 At this time you already need to have the `Javadoc` comments in the right places.
+
+The content will be generated in the folder "`target`".
+
+Example of generated `javadoc`:
+
+![javadoc example](images/javadoc-example.png)
