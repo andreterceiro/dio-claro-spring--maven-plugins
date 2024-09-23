@@ -23,3 +23,9 @@ mvn dependency help
 Plugin configuration:
 
 ![plugin configuration](images/plugin-configuration.png)
+
+At start some comfiguration is the same as the configurations of a dependency:
+
+- groupId;
+- artifactId;
+- version.
