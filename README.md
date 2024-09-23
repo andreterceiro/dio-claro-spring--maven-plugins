@@ -9,3 +9,13 @@ General things about plugins:
 Most used plugins
 
 ![most used plugins](images/most-used-plugins.png)
+
+How o use a plugin
+
+![how to use a plugin](images/how-to-use-a-plugin.png)
+
+Example:
+
+```
+mvn dependency help
+```
