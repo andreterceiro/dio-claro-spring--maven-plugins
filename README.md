@@ -20,7 +20,7 @@ Example:
 mvn dependency help
 ```
 
-Plugin configuration:
+## Plugin configuration
 
 ![plugin configuration](images/plugin-configuration.png)
 
@@ -31,3 +31,17 @@ At start some comfiguration is the same as the configurations of a dependency:
 - version.
 
 After, we can have configurations related specifically the plugin that is be configured. Example of configuration: `release` (please see the image).
+
+## Example of generation of a Javadoc
+
+First of all, please install one plugin. Insert this plugin in `pom.xml`: `maven-javadoc-plugin`.
+
+![javadoc plugin install](images/javadoc-plugin-install.png)
+
+Then execute:
+
+```
+mvn javadoc:javadoc
+```
+
+At this time you already need to have the `Javadoc` comments in the right places.
