@@ -5,3 +5,7 @@
 General things about plugins:
 
 ![general things about plugins in Maven](images/general-plugins.png)
+
+Most used plugins
+
+![most used plugins](images/most-used-plugins.png)
